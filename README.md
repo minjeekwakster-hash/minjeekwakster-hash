@@ -1,6 +1,6 @@
 # Hi, I'm Minji
 
-**I build AI products at the intersection of generative AI and production constraints.** Voice AI platforms, LLM evaluation frameworks, and hybrid HITL systems - the kind of AI that works at scale, not just in demos.
+**Senior PM with 12 years spanning AI/ML platforms, backend engineering, and global enterprise strategy.** Engineering background in event-driven systems (100M+ daily events) enables deep technical fluency and direct engagement on architecture decisions with AI engineers.
 
 [![Technical PM](https://img.shields.io/badge/Technical%20PM-Voice%20AI%20%7C%20LLM-blue)](https://github.com/minjeekwakster-hash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak)
 
@@ -17,12 +17,13 @@
 
 ## Background
 
-- **Senior PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1; 200+ daily sessions, 18% conversion, sub-1200ms latency at scale
-- **Lead PM (Founding PM) at ByTeams** - Launched AI engineering productivity platform
-- **Backend Engineer -> PM at BetterCloud** - Promoted twice; unlocked $4.5M enterprise pipeline
-- **7 years at Samsung Global HQ** - Scaled B2B developer programs across 10+ markets, 20% YoY growth
-- **Hack Reactor** - Completed SWE bootcamp; stayed to mentor 34 junior engineers
-- **UC Berkeley** B.A. Economics, President of Omicron Delta Epsilon. Bilingual: English & Korean
+- **Founding PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1 with RAG-based retrieval and automated eval frameworks; 200+ daily sessions at <1200ms latency, growing AI-influenced volume to 10k+ weekly gallons in 5 months with zero incremental sales headcount
+- **Mudflap** - Reduced agent deployment cycles by 90%+ (48 hrs to <4 hrs); authored 2026 AI strategy, growing AI team from 2 to 7
+- **Mudflap** - Identified that 5.6% of drivers ($17M+ LTV) drove 44% of fraud flags; deployed real-time alerting and ML-based OCR, cutting support escalations by 40%
+- **Lead PM (Founding PM) at ByTeams** - Launched AI engineering productivity platform; improved LLM output accuracy by 25% through prompt evaluation and HITL quality frameworks
+- **Backend Engineer -> PM at BetterCloud** - Scaled event-driven systems processing 100M+ daily events across 70+ microservices; unlocked $4.5M enterprise pipeline as PM
+- **7 years at Samsung Global HQ** - Secured first global B2G deployment (1.4M end users); identified $15M+ in untapped regional revenue; scaled B2B programs across 10+ markets
+- **UC Berkeley** B.A. Economics, President of Economics Honor Society. Bilingual: English & Korean
 
 ---
 
@@ -30,9 +31,9 @@
 
 **Product:** 0-to-1 Strategy, LLM/HITL Workflow Design, Evaluation Frameworks, Roadmapping, Customer Discovery
 
-**Technical:** Python, Event-driven Systems, Microservices, API Integration, ML-based OCR
+**Technical:** Python, SQL, REST APIs, GCP, AWS, Event-driven Systems, Microservices, Observability & Monitoring
 
-**AI/ML:** Generative AI, Conversational AI, Voice AI, Prompt Engineering, Agent Deployment
+**AI/ML:** LLM/RAG Systems, Generative AI, Voice AI, Agentic Workflows, Prompt Evaluation, Model Performance Metrics
 
 **Domain:** Fintech, Enterprise SaaS, Developer Platforms, B2B
 
