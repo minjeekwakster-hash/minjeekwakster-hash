@@ -6,8 +6,6 @@
 
 ---
 
----
-
 ## Background
 
 - **Founding PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1 with RAG-based retrieval and automated eval frameworks; scaled to 10k+ weekly gallons in 5 months with zero incremental sales headcount; reduced agent deployment cycles by 90%+ (48 hrs to <4 hrs)
