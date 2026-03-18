@@ -6,13 +6,6 @@
 
 ---
 
-## Repos
-
-| Repo | What It Is | Stars |
-|------|------------|-------|
-| voice-ai-eval *(coming soon)* | Evaluation framework for conversational AI - test, score, and improve Voice AI at production scale | - |
-| llm-accuracy-tooling *(coming soon)* | Catch hallucinations and output drift before they reach users | - |
-
 ---
 
 ## Background
