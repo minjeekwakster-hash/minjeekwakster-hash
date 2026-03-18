@@ -29,6 +29,12 @@
 
 ---
 
+## Projects
+
+- **[voice-agent-evals](https://github.com/minjeekwakster-hash/voice-agent-evals)** — End-to-end eval pipeline for production Voice AI agents. Two-layer quality gates, golden set regression detection, LLM judge calibration, and staged promotion. Built from patterns used to run a Voice AI platform at 200+ daily sessions.
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-minjigwak-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak) [![GitHub](https://img.shields.io/badge/GitHub-minjeekwakster--hash-181717?logo=github)](https://github.com/minjeekwakster-hash)
