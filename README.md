@@ -17,8 +17,7 @@
 
 ## Background
 
-- **Founding PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1 with RAG-based retrieval and automated eval frameworks; 200+ daily sessions at <1200ms latency, growing AI-influenced volume to 10k+ weekly gallons in 5 months with zero incremental sales headcount
-- **Mudflap** - Reduced agent deployment cycles by 90%+ (48 hrs to <4 hrs); authored 2026 AI strategy, growing AI team from 2 to 7
+- **Founding PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1 with RAG-based retrieval and automated eval frameworks; scaled to 10k+ weekly gallons in 5 months with zero incremental sales headcount; reduced agent deployment cycles by 90%+ (48 hrs to <4 hrs)
 - **Mudflap** - Identified that 5.6% of drivers ($17M+ LTV) drove 44% of fraud flags; deployed real-time alerting and ML-based OCR, cutting support escalations by 40%
 - **Lead PM (Founding PM) at ByTeams** - Launched AI engineering productivity platform; improved LLM output accuracy by 25% through prompt evaluation and HITL quality frameworks
 - **Backend Engineer -> PM at BetterCloud** - Scaled event-driven systems processing 100M+ daily events across 70+ microservices; unlocked $4.5M enterprise pipeline as PM
