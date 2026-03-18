@@ -18,7 +18,7 @@
 ## Background
 
 - **Senior PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1; 200+ daily sessions, 18% conversion, sub-1200ms latency at scale
-- **Lead PM (Founding PM) at ByTeams** - Launched AI engineering productivity platform from scratch
+- **Lead PM (Founding PM) at ByTeams** - Launched AI engineering productivity platform
 - **Backend Engineer -> PM at BetterCloud** - Promoted twice; unlocked $4.5M enterprise pipeline
 - **7 years at Samsung Global HQ** - Scaled B2B developer programs across 10+ markets, 20% YoY growth
 - **Hack Reactor** - Completed SWE bootcamp; stayed to mentor 34 junior engineers
