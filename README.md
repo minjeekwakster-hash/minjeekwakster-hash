@@ -2,7 +2,7 @@
 
 **I build AI products at the intersection of generative AI and production constraints.** Voice AI platforms, LLM evaluation frameworks, and hybrid HITL systems -- the kind of AI that works at scale, not just in demos.
 
-[![Engineer-turned-PM](https://img.shields.io/badge/Engineer--turned--PM-Voice%20AI%20%7C%20LLM-blue)](https://github.com/minjeekwakster-hash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak)
+[![Technical PM](https://img.shields.io/badge/Technical%20PM-Voice%20AI%20%7C%20LLM-blue)](https://github.com/minjeekwakster-hash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak)
 
 ---
 
