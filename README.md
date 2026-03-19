@@ -1,6 +1,6 @@
 # Hi, I'm Minji
 
-I'm a Senior Product Manager with 12 years building AI platforms, developer ecosystems, and enterprise products. Currently leading Voice AI and internal AI platforms at Mudflap (fintech, Palo Alto).
+I'm a Senior Product Manager with 12 years building AI platforms, developer ecosystems, and enterprise products. I am currently leading Voice AI and internal AI platforms at Mudflap (fintech, Palo Alto).
 
 I spend most of my time on the gap between what AI can do in a demo and what it takes to run it in production — eval infrastructure, deployment safety, and the cross-functional systems that make AI products scale. My engineering experience in event-driven systems (100M+ daily events) gives me the technical fluency to partner directly with AI engineers on architecture decisions.
 
@@ -10,7 +10,7 @@ I spend most of my time on the gap between what AI can do in a demo and what it 
 
 ## What I'm Building
 
-**Voice AI agent platform at Mudflap** — Production system for autonomous outbound voice agents in fintech. The stack: Vapi (voice), custom LLM orchestration with RAG-based knowledge retrieval, 4-stage environment promotion (test → staging → pre-prod → production — a two-layer eval framework that separates platform health from agent quality. Currently running 200+ daily sessions across multiple use cases.
+**Voice AI agent platform at a fintech company** — Production system for autonomous outbound voice agents. 4-stage environment promotion (test → staging → pre-prod → production), a two-layer eval framework that separates platform health from agent quality. Currently running 200+ daily sessions across multiple use cases.
 
 **The hard problems I work on daily:**
 - How do you eval a voice agent when "good" is subjective? (golden set regression, LLM-as-judge calibration, human-in-the-loop annotation)
@@ -23,8 +23,6 @@ I spend most of my time on the gap between what AI can do in a demo and what it 
 
 ### [voice-agent-evals](https://github.com/minjeekwakster-hash/voice-agent-evals)
 End-to-end eval pipeline for production Voice AI agents. Two-layer quality gates (platform health + agent quality), golden set regression detection that blocks promotion on >5pp score drops, LLM judge scaffolding, and staged environment promotion. Built from patterns running a voice AI platform at scale.
-
-**Tech:** Python · FutureAGI · Langfuse · Vapi
 
 ---
 
