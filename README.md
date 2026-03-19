@@ -1,40 +1,44 @@
 # Hi, I'm Minji
 
-**Senior PM with 12 years spanning AI/ML platforms, backend engineering, and global enterprise strategy.** Engineering background in event-driven systems (100M+ daily events) enables deep technical fluency and direct engagement on architecture decisions with AI engineers.
+I'm a Senior Product Manager with 12 years building AI platforms, developer ecosystems, and enterprise products. Currently leading Voice AI and internal AI platforms at Mudflap (fintech, Palo Alto).
 
-[![Technical PM](https://img.shields.io/badge/Technical%20PM-Voice%20AI%20%7C%20LLM-blue)](https://github.com/minjeekwakster-hash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak)
+I spend most of my time on the gap between what AI can do in a demo and what it takes to run it in production — eval infrastructure, deployment safety, and the cross-functional systems that make AI products scale. My engineering experience in event-driven systems (100M+ daily events) gives me the technical fluency to partner directly with AI engineers on architecture decisions.
 
----
-
-## Background
-
-- **Founding PM, AI & Internal Platforms at Mudflap** (Top 50 Fintech) - Built Voice AI 0 to 1 with RAG-based retrieval and automated eval frameworks; scaled to 10k+ weekly gallons in 5 months with zero incremental sales headcount; reduced agent deployment cycles by 90%+ (48 hrs to <4 hrs)
-- **Mudflap** - Identified that 5.6% of drivers ($17M+ LTV) drove 44% of fraud flags; deployed real-time alerting and ML-based OCR, cutting support escalations by 40%
-- **Lead PM (Founding PM) at ByTeams** - Launched AI engineering productivity platform; improved LLM output accuracy by 25% through prompt evaluation and HITL quality frameworks
-- **Backend Engineer -> PM at BetterCloud** - Scaled event-driven systems processing 100M+ daily events across 70+ microservices; unlocked $4.5M enterprise pipeline as PM
-- **7 years at Samsung Global HQ** - Secured first global B2G deployment (1.4M end users); identified $15M+ in untapped regional revenue; scaled B2B programs across 10+ markets
-- **UC Berkeley** B.A. Economics, President of Economics Honor Society. Bilingual: English & Korean
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-minjigwak-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak)
 
 ---
 
-## Skills
+## What I'm Building
 
-**Product:** 0-to-1 Strategy, LLM/HITL Workflow Design, Evaluation Frameworks, Roadmapping, Customer Discovery
+**Voice AI agent platform at Mudflap** — Production system for autonomous outbound voice agents in fintech. The stack: Vapi (voice), custom LLM orchestration with RAG-based knowledge retrieval, 4-stage environment promotion (test → staging → pre-prod → production — a two-layer eval framework that separates platform health from agent quality. Currently running 200+ daily sessions across multiple use cases.
 
-**Technical:** Python, SQL, REST APIs, GCP, AWS, Event-driven Systems, Microservices, Observability & Monitoring
-
-**AI/ML:** LLM/RAG Systems, Generative AI, Voice AI, Agentic Workflows, Prompt Evaluation, Model Performance Metrics
-
-**Domain:** Fintech, Enterprise SaaS, Developer Platforms, B2B
+**The hard problems I work on daily:**
+- How do you eval a voice agent when "good" is subjective? (golden set regression, LLM-as-judge calibration, human-in-the-loop annotation)
+- How do you deploy AI safely in financial services? (escalation logic, circuit breakers, rollback under 5 minutes)
+- How do you scale AI use cases without scaling headcount proportionally? (self-service tooling, templatized deployment, cross-functional operating models)
 
 ---
 
 ## Projects
 
-- **[voice-agent-evals](https://github.com/minjeekwakster-hash/voice-agent-evals)** — End-to-end eval pipeline for production Voice AI agents. Two-layer quality gates, golden set regression detection, LLM judge calibration, and staged promotion. Built from patterns used to run a Voice AI platform at 200+ daily sessions.
+### [voice-agent-evals](https://github.com/minjeekwakster-hash/voice-agent-evals)
+End-to-end eval pipeline for production Voice AI agents. Two-layer quality gates (platform health + agent quality), golden set regression detection that blocks promotion on >5pp score drops, LLM judge scaffolding, and staged environment promotion. Built from patterns running a voice AI platform at scale.
+
+**Tech:** Python · FutureAGI · Langfuse · Vapi
+
+---
+
+## Background
+
+- **Mudflap** — Founding PM, AI & Internal Platforms. Built Voice AI from zero, designed the eval and deployment infrastructure, authored company-wide AI strategy.
+- **ByTeams** — Founding PM. Launched 0→1 LLM-powered platform through customer discovery to beta.
+- **BetterCloud** — Backend engineer → PM. Built on event-driven systems at 100M+ daily events, then led Slack Enterprise Grid integration ($4.5M pipeline).
+- **Samsung Global HQ** — 7 years. Developer platforms, B2B channel programs across 10+ markets, first national B2G deployment (1.4M end users).
+- **UC Berkeley** — B.A. Economics (3.7 GPA). President, Economics Honor Society.
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-minjigwak-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak) [![GitHub](https://img.shields.io/badge/GitHub-minjeekwakster--hash-181717?logo=github)](https://github.com/minjeekwakster-hash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-minjigwak-0077B5?logo=linkedin)](https://linkedin.com/in/minjigwak)
+[![Email](https://img.shields.io/badge/Email-minjigwak@gmail.com-D14836?logo=gmail)](mailto:minjigwak@gmail.com)
